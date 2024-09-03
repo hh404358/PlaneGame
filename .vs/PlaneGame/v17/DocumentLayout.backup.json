@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\1.c#\\plane-game-master\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2A9F16F9-58A2-48C0-B3E0-EF46FB4E00C4}|PlaneGame\\PlaneGame.csproj|D:\\1.c#\\plane-game-master\\planegame\\mybullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A9F16F9-58A2-48C0-B3E0-EF46FB4E00C4}|PlaneGame\\PlaneGame.csproj|solutionrelative:planegame\\mybullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A9F16F9-58A2-48C0-B3E0-EF46FB4E00C4}|PlaneGame\\PlaneGame.csproj|d:\\1.c#\\plane-game-master\\planegame\\gameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2A9F16F9-58A2-48C0-B3E0-EF46FB4E00C4}|PlaneGame\\PlaneGame.csproj|solutionrelative:planegame\\gameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A9F16F9-58A2-48C0-B3E0-EF46FB4E00C4}|PlaneGame\\PlaneGame.csproj|D:\\1.c#\\plane-game-master\\planegame\\gameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A9F16F9-58A2-48C0-B3E0-EF46FB4E00C4}|PlaneGame\\PlaneGame.csproj|solutionrelative:planegame\\gameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A9F16F9-58A2-48C0-B3E0-EF46FB4E00C4}|PlaneGame\\PlaneGame.csproj|D:\\1.c#\\plane-game-master\\planegame\\enemybullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A9F16F9-58A2-48C0-B3E0-EF46FB4E00C4}|PlaneGame\\PlaneGame.csproj|solutionrelative:planegame\\enemybullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A9F16F9-58A2-48C0-B3E0-EF46FB4E00C4}|PlaneGame\\PlaneGame.csproj|D:\\1.c#\\plane-game-master\\planegame\\fighter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A9F16F9-58A2-48C0-B3E0-EF46FB4E00C4}|PlaneGame\\PlaneGame.csproj|solutionrelative:planegame\\fighter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A9F16F9-58A2-48C0-B3E0-EF46FB4E00C4}|PlaneGame\\PlaneGame.csproj|D:\\1.c#\\plane-game-master\\planegame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A9F16F9-58A2-48C0-B3E0-EF46FB4E00C4}|PlaneGame\\PlaneGame.csproj|solutionrelative:planegame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A9F16F9-58A2-48C0-B3E0-EF46FB4E00C4}|PlaneGame\\PlaneGame.csproj|D:\\1.c#\\plane-game-master\\planegame\\myplane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A9F16F9-58A2-48C0-B3E0-EF46FB4E00C4}|PlaneGame\\PlaneGame.csproj|solutionrelative:planegame\\myplane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A9F16F9-58A2-48C0-B3E0-EF46FB4E00C4}|PlaneGame\\PlaneGame.csproj|D:\\1.c#\\plane-game-master\\planegame\\gameform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A9F16F9-58A2-48C0-B3E0-EF46FB4E00C4}|PlaneGame\\PlaneGame.csproj|solutionrelative:planegame\\gameform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A9F16F9-58A2-48C0-B3E0-EF46FB4E00C4}|PlaneGame\\PlaneGame.csproj|D:\\1.c#\\plane-game-master\\planegame\\resource.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A9F16F9-58A2-48C0-B3E0-EF46FB4E00C4}|PlaneGame\\PlaneGame.csproj|solutionrelative:planegame\\resource.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A9F16F9-58A2-48C0-B3E0-EF46FB4E00C4}|PlaneGame\\PlaneGame.csproj|D:\\1.c#\\plane-game-master\\planegame\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{2A9F16F9-58A2-48C0-B3E0-EF46FB4E00C4}|PlaneGame\\PlaneGame.csproj|solutionrelative:planegame\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A9F16F9-58A2-48C0-B3E0-EF46FB4E00C4}|PlaneGame\\PlaneGame.csproj|D:\\1.c#\\plane-game-master\\planegame\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A9F16F9-58A2-48C0-B3E0-EF46FB4E00C4}|PlaneGame\\PlaneGame.csproj|solutionrelative:planegame\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameForm.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\1.c#\\plane-game-master\\PlaneGame\\GameForm.cs",
+              "RelativeDocumentMoniker": "PlaneGame\\GameForm.cs",
+              "ToolTip": "D:\\1.c#\\plane-game-master\\PlaneGame\\GameForm.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "PlaneGame\\GameForm.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T08:43:43.441Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EnemyBullet.cs",
+              "DocumentMoniker": "D:\\1.c#\\plane-game-master\\PlaneGame\\EnemyBullet.cs",
+              "RelativeDocumentMoniker": "PlaneGame\\EnemyBullet.cs",
+              "ToolTip": "D:\\1.c#\\plane-game-master\\PlaneGame\\EnemyBullet.cs",
+              "RelativeToolTip": "PlaneGame\\EnemyBullet.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAywAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T09:17:25.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MyBullet.cs",
+              "DocumentMoniker": "D:\\1.c#\\plane-game-master\\PlaneGame\\MyBullet.cs",
+              "RelativeDocumentMoniker": "PlaneGame\\MyBullet.cs",
+              "ToolTip": "D:\\1.c#\\plane-game-master\\PlaneGame\\MyBullet.cs",
+              "RelativeToolTip": "PlaneGame\\MyBullet.cs",
+              "ViewState": "AgIAAIEAAAAAAAAAAADgv4oAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T09:11:14.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MyPlane.cs",
+              "DocumentMoniker": "D:\\1.c#\\plane-game-master\\PlaneGame\\MyPlane.cs",
+              "RelativeDocumentMoniker": "PlaneGame\\MyPlane.cs",
+              "ToolTip": "D:\\1.c#\\plane-game-master\\PlaneGame\\MyPlane.cs",
+              "RelativeToolTip": "PlaneGame\\MyPlane.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T09:07:15.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameForm.cs",
+              "DocumentMoniker": "D:\\1.c#\\plane-game-master\\PlaneGame\\GameForm.cs",
+              "RelativeDocumentMoniker": "PlaneGame\\GameForm.cs",
+              "ToolTip": "D:\\1.c#\\plane-game-master\\PlaneGame\\GameForm.cs",
+              "RelativeToolTip": "PlaneGame\\GameForm.cs",
+              "ViewState": "AgIAAOMAAAAAAAAAAAArwOgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T08:45:22.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Fighter.cs",
+              "DocumentMoniker": "D:\\1.c#\\plane-game-master\\PlaneGame\\Fighter.cs",
+              "RelativeDocumentMoniker": "PlaneGame\\Fighter.cs",
+              "ToolTip": "D:\\1.c#\\plane-game-master\\PlaneGame\\Fighter.cs",
+              "RelativeToolTip": "PlaneGame\\Fighter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T08:43:17.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GameForm.Designer.cs",
+              "DocumentMoniker": "D:\\1.c#\\plane-game-master\\PlaneGame\\GameForm.Designer.cs",
+              "RelativeDocumentMoniker": "PlaneGame\\GameForm.Designer.cs",
+              "ToolTip": "D:\\1.c#\\plane-game-master\\PlaneGame\\GameForm.Designer.cs",
+              "RelativeToolTip": "PlaneGame\\GameForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T08:41:39.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\1.c#\\plane-game-master\\PlaneGame\\Program.cs",
+              "RelativeDocumentMoniker": "PlaneGame\\Program.cs",
+              "ToolTip": "D:\\1.c#\\plane-game-master\\PlaneGame\\Program.cs",
+              "RelativeToolTip": "PlaneGame\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T08:41:24.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Resource.Designer.cs",
+              "DocumentMoniker": "D:\\1.c#\\plane-game-master\\PlaneGame\\Resource.Designer.cs",
+              "RelativeDocumentMoniker": "PlaneGame\\Resource.Designer.cs",
+              "ToolTip": "D:\\1.c#\\plane-game-master\\PlaneGame\\Resource.Designer.cs",
+              "RelativeToolTip": "PlaneGame\\Resource.Designer.cs",
+              "ViewState": "AgIAAFcBAAAAAAAAAIA1wGEBAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T08:41:06.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "app.config",
+              "DocumentMoniker": "D:\\1.c#\\plane-game-master\\PlaneGame\\app.config",
+              "RelativeDocumentMoniker": "PlaneGame\\app.config",
+              "ToolTip": "D:\\1.c#\\plane-game-master\\PlaneGame\\app.config",
+              "RelativeToolTip": "PlaneGame\\app.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-09-03T08:40:37.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "D:\\1.c#\\plane-game-master\\PlaneGame\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "PlaneGame\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "D:\\1.c#\\plane-game-master\\PlaneGame\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "PlaneGame\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T08:39:45.706Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
